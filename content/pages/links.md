@@ -6,6 +6,18 @@ Icon: fa-external-link
 
 <a href="http://lambdaschool.com/" target="_blank">Lambda School</a>
 
+<a href="http://www.luna-lang.org/" target="_blank">Luna</a>
+
+# GUI Libraries #
+
+<a href="https://github.com/ocornut/imgui" target="_blank">Imgui</a>
+
+<a href="https://github.com/wjakob/nanogui" target="_blank">Nanogui</a>
+
+<a href="https://github.com/vurtun/nuklear" target="_blank">Nuklear</a>
+
+<a href="http://flowbox.io/" target="_blank">Flowbox</a>
+
 # Maya #
 
 <a href="http://danostrov.com/2012/10/27/building-aetemplates-with-pyqt/" target="_blank">Building AETemplates with PyQt</a>
@@ -76,9 +88,17 @@ __________________
 
 <a href="https://vimeo.com/sophiazauner" target="_blank">Sophia Zauner</a>
 
+<a href="http://bretbays.com/" target="_blank">Bret Bays</a>
+
+<a href="http://theodox.github.io/" target="_blank">Steve Theodore</a>
+
+<a href="http://ravrigs.com/" target="_blank">Rafael Villar</a>
+
 ## Companies ##
 
 <a href="http://riggingdojo.com/" target="_blank">Rigging Dojo</a>
+
+<a href="http://www.anzovin.com/projects/" target="_blank">Anzovin Studio</a>
 
 
 

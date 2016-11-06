@@ -16,20 +16,16 @@ JINJA_FILTERS = { 'sidebar': filters.sidebar, 'pretty_date': filters.pretty_date
 
 DEFAULT_LANG = u'en'
 
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['better_code_samples']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-# Blogroll
-# LINKS =  (('Pelican', 'http://getpelican.com/'),
-#           ('Python.org', 'http://python.org/'),
-#           ('Jinja2', 'http://jinja.pocoo.org/'),
-#           ('You can modify those links in your config file', '#'),)
-
 # Social widget
 SOCIAL = (('github', 'http://github.com/tdsanonymous'),)
-
 
 DEFAULT_PAGINATION = 3
 POST_LIMIT = 3
@@ -67,11 +63,7 @@ YEAR_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/index.html'
 # Show most recent posts first
 NEWEST_FIRST_ARCHIVES = True
 
-STATIC_PATHS = ['images',
-                'fonts',
-                'css',
-                'js',
-                ]
+STATIC_PATHS = ['images', 'fonts', 'css', 'js',]
 
 import datetime
 now = datetime.datetime.utcnow()
